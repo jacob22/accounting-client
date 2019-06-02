@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-09 14:01+0100\n"
+"PO-Revision-Date: 2016-03-14 16:08+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Please fill in the mandatory fields."
+msgstr "Det finns obligatoriska fält som måste fyllas i."
+
+msgid "This field is mandatory."
+msgstr "Detta fält är obligatoriskt."
+
+msgid "YYMMDD-NNNN"
+msgstr "ÅÅMMDD-NNNN"
+
+msgid "Quantity remaining: "
+msgstr "Antal kvar: "
+
+msgid "Add"
+msgstr "Lägg till"
+
+msgid "Fields marked with <span class=\"mandatory\" /> are mandatory.</span>"
+msgstr ""
+"Fält markerade med <span class=\"mandatory\" /> är obligatoriska.</span>"
+
+msgid "product"
+msgid_plural "products"
+msgstr[0] "produkt"
+msgstr[1] "produkter"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Address"
+msgstr "Adress"
+
+msgid "E-mail"
+msgstr "E-post"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Note"
+msgstr "Notering"
+
+msgid "Note on invoice"
+msgstr "Egen notering på fakturan"
+
+msgid ""
+"By placing an order, you permit us to store the personal details you entered "
+"and use it for administrative purposes. This website uses cookies to store "
+"information about your order."
+msgstr ""
+"Genom att göra beställningar via den här webbsidan medger du att mottagaren "
+"sparar och använder de personuppgifter som du lämnar för sin interna "
+"administration. Webbplatsen använder cookies för att spara information om "
+"din beställning"
+
+msgid "Order"
+msgstr "Beställ"
+
+msgid "Name and address are mandatory."
+msgstr "Namn och adress är obligatoriska."
+
+msgid "Purchase already being processed..."
+msgstr "Beställningen håller redan på att sparas."
+
+msgid "Products"
+msgstr "Produkter"
+
+msgid "Shopping cart"
+msgstr "Varukorg"
+
+msgid "items"
+msgstr "art."
+
+msgid "Amount to pay"
+msgstr "Att betala"
+
+msgid "Item"
+msgstr "Vara"
+
+msgid "Total"
+msgstr "Summa"
+
+msgid "Quantity"
+msgstr "Antal"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "You have attempted to order too many items."
+msgstr "Du har beställt för många."

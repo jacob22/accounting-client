@@ -1,0 +1,8 @@
+#!/bin/sh
+
+root=$(dirname $(dirname $0))
+
+while inotifywait -e modify -e create --exclude '#.+#' --exclude '\.#.+' -r app/; do
+    make -C $root compile
+    /bin/echo -en \\a
+done

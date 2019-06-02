@@ -1,0 +1,169 @@
+/*
+Copyright 2019 Open End AB
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+
+body {
+    line-height: 140%;
+}
+
+.invisible {
+    display: none;
+}
+
+.monospace textarea {
+    font-family: monospace;
+}
+
+.oe-deletecol-icon {
+    margin-left: 10px;
+}
+
+.oe-readonly .x-form-file-btn,
+.oe-readonly.x-btn {
+    display: none;
+}
+
+.oe-readonly.x-form-type-text input.x-form-invalid-field,
+.oe-readonly .x-form-field,
+.oe-readonly .x-form-trigger {
+    opacity: 1;
+    background-color: #eeeeee;
+    background-image: none;
+}
+
+.oe-readonly .x-form-checkbox {
+    background: url(/packages/ext-theme-bokf/build/resources/images/form/checkbox.gif) no-repeat;
+    background-position-y: -26px;
+    background-position-x: -39px;
+}
+
+.oe-readonly.x-form-cb-checked .x-form-checkbox {
+    background-position-x: 0px;
+}
+
+.x-grid-row .x-grid-cell.accounting,
+.x-grid-row .x-grid-cell.addAccounting,
+.x-grid-row .x-grid-cell.addOrg {
+    overflow: visible;
+}
+
+.x-grid-row .x-grid-cell.addAccounting,
+.x-grid-row .x-grid-cell.addOrg {
+    font-style: italic;
+}
+
+/* Verification number spinner in verification view. */
+.vernumber-icon {
+    position: relative;
+    bottom: -3px;
+}
+
+.acc-top-toolbar {
+    background-image: url(/static/images/logo-79x19.png);
+    background-repeat: no-repeat;
+    background-position: 5px 2px;
+    background-color: transparent;
+}
+
+.purchase.cancelled .purchase-details {
+    background-color: #ffe0e5;
+}
+
+.purchase-date {
+    min-width: 8em;
+    padding-left: 3px;
+}
+
+.matched-payment-amount,
+.purchase-amount {
+    min-width: 6em;
+}
+
+.matched-payment-ocr,
+.purchase-ocr {
+    min-width: 8em;
+}
+
+.purchase-state {
+    float: right;
+    margin-right: 4em;
+}
+
+.matched-payment-amount {
+    font-weight: bold;
+}
+
+.matched-payment-ocr,
+.matched-payment-amount,
+.purchase-date,
+.purchase-amount,
+.purchase-ocr {
+    display: inline-block;
+}
+
+.payment.unmatched-payment.x-panel-header {
+    background-color: #ffe0e5; /* pink */
+}
+
+.payment .x-btn-inner {
+    font-size: 90%;
+}
+
+.paymentprovider.x-panel-header,
+.accounting-rules.x-panel-header,
+.option-fields.x-panel-header,
+.option-field.x-panel-header,
+.payment-information-header.x-panel-header,
+.purchase-details.x-panel-header,
+.payment.x-panel-header {
+    background-color: transparent;
+    background-image: none;
+    box-shadow: none;
+    padding-left: 0;
+}
+
+.x-column-header.purchase-item-option {
+    background-image: none;
+    background-color: white;
+    border-right: 0;
+}
+
+.negative-balance {
+    color: red;
+}
+
+.missing-account-warning .x-form-display-field {
+    color: red;
+    padding: 5px 5px 5px 10px;
+}
+
+.top {
+    vertical-align: top;
+}
+
+/* For comboboxes with checkbox lists. Used in series filter for reports.
+   Recipe: http://stackoverflow.com/a/11365245 */
+.x-boundlist-item img.chkCombo {
+    background: transparent url(/packages/ext-theme-bokf/build/resources/images/menu/unchecked.gif);
+    width: 16px;
+}
+.x-boundlist-selected img.chkCombo{
+    background: transparent url(/packages/ext-theme-bokf/build/resources/images/menu/checked.gif);
+    width: 16px;
+}
+
+iframe {
+    border: 0px;
+}

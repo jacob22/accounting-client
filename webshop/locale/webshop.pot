@@ -1,0 +1,82 @@
+msgid "Please fill in the mandatory fields."
+msgstr ""
+
+msgid "This field is mandatory."
+msgstr ""
+
+msgid "YYMMDD-NNNN"
+msgstr ""
+
+msgid "Quantity remaining: "
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Fields marked with <span class=\"mandatory\" /> are mandatory.</span>"
+msgstr ""
+
+msgid "product"
+msgid_plural "products"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Note on invoice"
+msgstr ""
+
+msgid ""
+"By placing an order, you permit us to store the personal details you entered "
+"and use it for administrative purposes. This website uses cookies to store "
+"information about your order."
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Name and address are mandatory."
+msgstr ""
+
+msgid "Purchase already being processed..."
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Shopping cart"
+msgstr ""
+
+msgid "items"
+msgstr ""
+
+msgid "Amount to pay"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "You have attempted to order too many items."
+msgstr ""
